@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newwelcome/static/css/main.8b076cef.chunk.css",
+    "main.js": "/newwelcome/static/js/main.4d05ebd5.chunk.js",
+    "main.js.map": "/newwelcome/static/js/main.4d05ebd5.chunk.js.map",
+    "runtime-main.js": "/newwelcome/static/js/runtime-main.3cf5e0ea.js",
+    "runtime-main.js.map": "/newwelcome/static/js/runtime-main.3cf5e0ea.js.map",
+    "static/css/2.11829350.chunk.css": "/newwelcome/static/css/2.11829350.chunk.css",
+    "static/js/2.6e822bc9.chunk.js": "/newwelcome/static/js/2.6e822bc9.chunk.js",
+    "static/js/2.6e822bc9.chunk.js.map": "/newwelcome/static/js/2.6e822bc9.chunk.js.map",
+    "index.html": "/newwelcome/index.html",
+    "precache-manifest.9ca2fd451431de792d3770a039282aaa.js": "/newwelcome/precache-manifest.9ca2fd451431de792d3770a039282aaa.js",
+    "service-worker.js": "/newwelcome/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/newwelcome/static/css/2.11829350.chunk.css.map",
+    "static/css/main.8b076cef.chunk.css.map": "/newwelcome/static/css/main.8b076cef.chunk.css.map",
+    "static/js/2.6e822bc9.chunk.js.LICENSE.txt": "/newwelcome/static/js/2.6e822bc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cf5e0ea.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6e822bc9.chunk.js",
+    "static/css/main.8b076cef.chunk.css",
+    "static/js/main.4d05ebd5.chunk.js"
+  ]
+}
